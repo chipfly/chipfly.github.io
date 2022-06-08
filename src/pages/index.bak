@@ -1,0 +1,18 @@
+import type { NextPage } from 'next'
+import { SEO } from 'components/SEO'
+import { Guide } from 'components/Guide'
+import { HotResources } from 'components/HotResources'
+import { Cooperation } from 'components/Cooperation'
+
+const Home: NextPage = () => {
+  return (
+    <>
+      <SEO title="来杏客 找资源 找合作" />
+      <Guide />
+      <HotResources />
+      <Cooperation />
+    </>
+  )
+}
+
+export default Home

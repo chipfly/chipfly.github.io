@@ -34,7 +34,7 @@ export const Samples = () => {
             FY网络科技
           </h2>
           <h1 className="text-3xl text-gray-800 font-semibold">
-            一站式解决服务
+            一站式解决方案提供商
           </h1>
           <p className="text-gray-500 max-w-lg mx-auto text-lg">
             我们可以帮助您无缝地完成数字化转型，从而提高您的经济效益。技术咨询，网站开发，自动化脚本，只需要告诉我们您的想法，我们就会披荆斩棘帮您实现。
